@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1676670127 source:c:\users\fvga\onedrive\documentos\proyectos ariel c++\juego-ariel++\main.cpp
+	<iostream>
+	<locale.h>
+	<ctime>
+	<windows.h>
+	"menu.h"
+	"rlutil.h"
+	"mazo.h"
+	"accion.h"
+
+1673454804 c:\users\fvga\onedrive\documentos\proyectos ariel c++\juego-ariel++\menu.h
+	"rlutil.h"
+	<iostream>
+
+1671564739 c:\users\fvga\onedrive\documentos\proyectos ariel c++\juego-ariel++\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1673454908 source:c:\users\fvga\onedrive\documentos\proyectos ariel c++\juego-ariel++\menu.cpp
+	<iostream>
+	<locale.h>
+	<ctime>
+	<windows.h>
+	"menu.h"
+	"rlutil.h"
+
+1672369940 source:c:\users\fvga\onedrive\documentos\proyectos ariel c++\juego-ariel++\mazo.cpp
+	"rlutil.h"
+	<iostream>
+	<locale.h>
+	"mazo.h"
+	<ctime>
+
+1672340446 c:\users\fvga\onedrive\documentos\proyectos ariel c++\juego-ariel++\mazo.h
+	"rlutil.h"
+	<iostream>
+	<ctime>
+
+1676652653 source:c:\users\fvga\onedrive\documentos\proyectos ariel c++\juego-ariel++\accion.cpp
+	<iostream>
+	<locale.h>
+	<ctime>
+	<windows.h>
+	"menu.h"
+	"rlutil.h"
+	"accion.h"
+
+1672347895 c:\users\fvga\onedrive\documentos\proyectos ariel c++\juego-ariel++\accion.h
+	<iostream>
+	<locale.h>
+	<ctime>
+	<windows.h>
+	"menu.h"
+	"rlutil.h"
+
